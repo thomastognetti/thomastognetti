@@ -10,8 +10,6 @@
 
 ## About Me
 
-## About Me
-
 Hello — I'm the developer behind this account (joined Feb 2022). I'm still a student in high school, but I plan to enroll in university as soon as I graduate. My primary focuses and interests are Full-Stack Development, (ethical) AI/ML and Cybersecurity (I'm actually studying to get a CJCA).
 
 - GitHub: [thomastognetti](https://github.com/thomastognetti)
@@ -23,10 +21,6 @@ Hello — I'm the developer behind this account (joined Feb 2022). I'm still a s
 <img src="https://skillicons.dev/icons?i=java,c,git,github,cpp,angular,ableton,arch,arduino,bash,bootstrap,css,tailwind,cmake,cloudflare,docker,elixir,figma,gitlab,go,html,js,nextjs,npm,nginx,kubernetes,mysql,mongodb,postgres,postman,latex,nodejs,react,rust,vite,sqlite,php,vue,linux&perline=8"/>
 
 ## GitHub Stats
-
-- Public repositories: **3**
-- Followers: **0**
-- Following: **0**
 
 Badges & stats:
 
