@@ -1,30 +1,64 @@
-# Hi 👋, I'm Thomas Tognetti
+## Hi there! 👋
 
-### 👋 Hi! I'm a passionate Full-Stack Developer who loves FOSS and is looking forward to contributing to the repositories' codebases I find the most interesting!
+# Hi there! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thomastognetti&label=Profile views&color=0e75b6&style=flat" alt="thomastognetti" /> </p>
+**I'm @thomastognetti** — a Full-Stack Developer and an open-source enthusiast. I love FOSS philosophy and I'm looking forward to contribute to any project that I find interesting.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomastognetti" alt="thomastognetti" /></a> </p>
+- 🔭 I'm constantly searching for codebases to contribute to
+- 🌱 I'm looking forward to learn Svelte, Ember, Flutter and Redis
+- ⚡ I focus on clean code and consistent commits
 
-- 🌱 I'm currently learning **Ionic (mainly) and I'm looking forward to learn Svelte, Ember, Flutter or Dart, Redis**
+## About Me
 
-- 👯 I'm looking to collaborate on **FOSS projects about topics I like the most, such as (ethical) AI.**
+## About Me
 
-- 📫 How to reach me **toegnetty.work@gmail.com**
+Hello — I'm the developer behind this account (joined Feb 2022). I'm still a student in high school, but I plan to enroll in university as soon as I graduate. My primary focuses and interests are Full-Stack Development, (ethical) AI/ML and Cybersecurity (I'm actually studying to get a CJCA).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/thomastognetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="thomastognetti" height="30" width="40" /></a>
-<a href="https://dev.to/thomastognetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thomastognetti" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thomastognetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomastognetti" height="30" width="40" /></a>
-</p>
+- GitHub: [thomastognetti](https://github.com/thomastognetti)
+- Account created: 2022-02-04
+- Interests: FOSS, Full-Stack Development, AI/ML, Cybersecurity, Pentesting
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angularjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angularjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/elixir" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=elixir" alt="elixir" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ionic" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
+## Skills & Technologies
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomastognetti&show_icons=true&locale=en&layout=compact" alt="thomastognetti" /></p>
+java,c,git,github,cpp,angular,ableton,arch,arduino,bash,bootstrap,css,tailwind,cmake,cloudflare,docker,elixir,figma,gitlab,go,html,js,nextjs,npm,nginx,kubernetes,mysql,mongodb,postgres,postman,latex,nodejs,react,rust,vite,sqlite,php,vue,linux
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thomastognetti&show_icons=true&locale=en" alt="thomastognetti" /></p>
+## GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomastognetti&" alt="thomastognetti" /></p>
+## GitHub Stats
 
+- Public repositories: **3**
+- Followers: **0**
+- Following: **0**
+
+Badges & stats:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thomastognetti&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thomastognetti&layout=compact&theme=dark)
+
+
+Quick badges:
+
+- ![GitHub followers](https://img.shields.io/badge/followers-0-1da1f2?logo=github)
+- ![Repos](https://img.shields.io/badge/public%20repos-3-blue)
+
+
+## Recent Activity
+
+## Recent Activity (latest events)
+
+Below are the most recent public events on this account:
+
+- 🔁 2026-04-08 — Push to [thomastognetti/thomastognetti](https://github.com/thomastognetti/thomastognetti) (PushEvent)
+- 🌱 2026-04-08 — Created branch `main` on [thomastognetti/thomastognetti](https://github.com/thomastognetti/thomastognetti) (CreateEvent)
+- ⭐ 2026-04-08 — Starred [cilium/cilium](https://github.com/cilium/cilium) (WatchEvent)
+- ⭐ 2026-03-17 — Starred [juliosuas/ghost](https://github.com/juliosuas/ghost) (WatchEvent)
+- ⭐ 2026-03-17 — Starred [FatBy/DunCrew](https://github.com/FatBy/DunCrew) (WatchEvent)
+- ⭐ 2026-03-17 — Starred [dorylab/dory](https://github.com/dorylab/dory) (WatchEvent)
+- ⭐ 2026-03-16 — Starred [squidowl/halloy](https://github.com/squidowl/halloy) (WatchEvent)
+
+You can follow activity and contributions on the profile timeline or subscribe to repositories you find interesting.
+
+## Connect with Me
+
+📥 You can e-mail me at: toegnetty.work@gmail.com
