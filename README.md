@@ -24,8 +24,6 @@ Hello — I'm the developer behind this account (joined Feb 2022). I'm still a s
 
 ## GitHub Stats
 
-## GitHub Stats
-
 - Public repositories: **3**
 - Followers: **0**
 - Following: **0**
