@@ -20,7 +20,7 @@ Hello — I'm the developer behind this account (joined Feb 2022). I'm still a s
 
 ## Skills & Technologies
 
-java,c,git,github,cpp,angular,ableton,arch,arduino,bash,bootstrap,css,tailwind,cmake,cloudflare,docker,elixir,figma,gitlab,go,html,js,nextjs,npm,nginx,kubernetes,mysql,mongodb,postgres,postman,latex,nodejs,react,rust,vite,sqlite,php,vue,linux
+<img src="https://skillicons.dev/icons?i=java,c,git,github,cpp,angular,ableton,arch,arduino,bash,bootstrap,css,tailwind,cmake,cloudflare,docker,elixir,figma,gitlab,go,html,js,nextjs,npm,nginx,kubernetes,mysql,mongodb,postgres,postman,latex,nodejs,react,rust,vite,sqlite,php,vue,linux&perline=8"/>
 
 ## GitHub Stats
 
