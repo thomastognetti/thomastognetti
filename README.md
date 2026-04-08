@@ -1,5 +1,3 @@
-## Hi there! 👋
-
 # Hi there! 👋
 
 **I'm @thomastognetti** — a Full-Stack Developer and an open-source enthusiast. I love FOSS philosophy and I'm looking forward to contribute to any project that I find interesting.
